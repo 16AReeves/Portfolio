@@ -1,3 +1,8 @@
+# Files to ignore
+index.html 
+styles.css 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
